@@ -1,3 +1,17 @@
+	
+	.desc {
+		color: #101c38;
+		font-size: 14px;
+		font-weight: normal;
+		overflow-x: hidden;
+		word-wrap: break-word;
+		text-rendering: optimizeLegibility;
+	}
+
+    .wavy {
+
+    }
+
 .pswp,html{
     -webkit-text-size-adjust:100%
 }
@@ -174,7 +188,7 @@ optgroup,strong{
 }
 body,button,input,select,textarea{
     color:#101c38;
-    font-family:Karla,HelveticaNeue,Helvetica,Tahoma,sans-serif;
+    font-family: Rubik;
     font-size:15px;
     font-weight:400;
     line-height:1.75
@@ -204,7 +218,7 @@ h1.extra{
        
 }
 h2{
-    font-weight:bold;
+    font-weight:600;
     margin-bottom:20px
 }
 h3{
